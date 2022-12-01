@@ -11,4 +11,6 @@
 |-20°F to -10°F|20%|
 |-20°F or below|15%|
 
+---
+
 Source: The University of Minnesota Laboratories / American Architectural Manufacturers Association
