@@ -4,6 +4,8 @@
 
 ### visit [https://ctcpip.github.io/humidifier-cheat-sheet](https://ctcpip.github.io/humidifier-cheat-sheet)
 
+---
+
 |Temperature Outside|Humidity Setting|
 |---|---|
 |20°F to 40°F|40%|
